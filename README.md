@@ -1,1 +1,1 @@
-Buscando uma forma de compreender ao site e mesmo assim criar um de apresentação e portifólio dos projetos feitos através dos meus estudos PYTHON 3.
+Inclusão de atividades de estudos e arquivos de diferentes linguagens para consultas 
